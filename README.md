@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+URL - https://tinder-clone-f4493.web.app/
+
+
 
 ## Available Scripts
 
